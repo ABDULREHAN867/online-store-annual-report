@@ -24,13 +24,13 @@ Delivery Success Rate  92.25%.
 
 💡 Key Insights:
 
-Women dominate purchases — 64% of total orders placed by female customers
-Adult age group (25–50) is the highest contributing segment across all channels
-Maharashtra, Karnataka, and Uttar Pradesh are the top 3 revenue-generating states
-Amazon leads as the #1 sales channel, followed by Myntra and Flipkart
-March to June is the peak sales season — highest orders and revenue recorded in this window
-92.25% delivery success rate reflects strong supply chain and fulfillment efficiency
-Sets and Kurtas are the best-selling product categories
+* Women dominate purchases — 64% of total orders placed by female customers.
+* Adult age group (25–50) is the highest contributing segment across all channels.
+* Maharashtra, Karnataka, and Uttar Pradesh are the top 3 revenue-generating states.
+* Amazon leads as the #1 sales channel, followed by Myntra and Flipkart.
+* March to June is the peak sales season — highest orders and revenue recorded in this window.
+* 92.25% delivery success rate reflects strong supply chain and fulfillment efficiency.
+* Sets and Kurtas are the best-selling product categories.
 
 🏁 Final Business Conclusion:
 

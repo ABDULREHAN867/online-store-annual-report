@@ -11,16 +11,14 @@ To analyze annual sales data of an online store and identify the most profitable
 📸 Dashboard Preview
 <img width="1918" height="1016" alt="Screenshot_excel_annual_report" src="https://github.com/user-attachments/assets/20ecb1fa-103e-495a-bce4-91b00c3fade0" />
 
-
-📊 Key Metrics
-
-Metric                Value,
-Total Orders           31,045 ,
-Top State              Maharashtra ,
-Top Channel            Amazon ,
-Top Customer Segment   Women (Age 25–50) ,
-Peak Sales Period      March – June ,
-Delivery Success Rate  92.25%.
+| Metric | Value |
+|--------|-------|
+| Total Orders | 31,045 |
+| Top State | Maharashtra |
+| Top Channel | Amazon |
+| Top Segment | Women (Age 25–50) |
+| Peak Season | March – June |
+| Delivery Rate | 92.25% |
 
 💡 Key Insights:
 

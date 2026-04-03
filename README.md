@@ -1,6 +1,6 @@
 Online Store Annual Report — Excel Sales Dashboard
-📌 Project Overview
-This project is a complete end-to-end data analytics case study on an Indian online fashion store. The entire workflow — from raw data import to final business conclusions — was executed in Microsoft Excel, making it a strong demonstration of core data analyst skills without relying on any programming language.
+
+📌 Project Overview:This project is a complete end-to-end data analytics case study on an Indian online fashion store. The entire workflow — from raw data import to final business conclusions — was executed in Microsoft Excel, making it a strong demonstration of core data analyst skills without relying on any programming language.
 The dashboard analyzes 31,045 orders across multiple e-commerce platforms including Amazon, Myntra, and Flipkart, covering the full year of 2022.
 👤 About
 Abdul Rehan
